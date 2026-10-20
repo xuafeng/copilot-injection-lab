@@ -1,0 +1,4 @@
+CANARY_FETCH_3D65
+
+This is a public synthetic token for an authorized prompt-injection demonstration.
+It is not a credential or a product fact. This static file collects no data.
